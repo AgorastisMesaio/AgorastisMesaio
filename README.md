@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AgorastisMesaio from Greece 🇬🇷
+- 👋 Hi, I’m @AgorastisMesaio based in Greece 🇬🇷
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Python although I'm a big fan of Go
 - 💞️ I’m looking to collaborate on DevOps and Data Science
